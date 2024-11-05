@@ -15,47 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi 👋, I'm Sudais Rehman
-A dedicated and skilled Flutter Developer with a degree in Computer Systems Engineering from the University of Engineering and Technology, Peshawar. I am passionate about developing responsive, user-focused mobile applications that provide real-world solutions. I'm currently open to new front-end opportunities, where I can contribute my skills in mobile development.
+A skilled Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am passionate about creating efficient, user-friendly mobile applications that provide real-world solutions. Currently, I am open to new opportunities in mobile and front-end development.
 
 🔭 Projects I've Worked On:
-🖼️ Gallery Saver Plus – A Flutter plugin for saving images and videos directly to the device gallery. (Forked from AftabUfaq/gallery_saver_plus)
-🔍 QR Code Tools – A Flutter plugin for iOS and Android to decode QR codes. (Forked from AifeiI/qr_code_tools)
-📱 QR Code Scanner – A QR code scanning application with real-time scanning capabilities.
-📍 GPS Camera iOS – An iOS app that integrates GPS functionalities with camera features for location-based media capture.
-📷 GPS Camera Android – An Android version of the GPS Camera app for location-tagged media capturing.
-💳 Stripe App – A C++ project for Stripe payment integrations.
-🗺️ GPS Map Camera – A Flutter app that combines mapping and camera functionalities for GPS-tagged photos.
-⚙️ RPM Service – A service-based app in Dart for real-time RPM tracking.
-📔 Lawyer Diary – A diary and case management application for legal professionals.
-➗ SplitApp – An app to simplify cost splitting for group expenses.
-👋 Salam – A Flutter app designed for messaging and communication.
-⚖️ BMI Calculator – A BMI calculator application in C++.
-💰 Bitcoin Exchanger – A C++ application for real-time bitcoin currency conversion.
-📽️ Veepo – A Flutter project focused on video processing and effects.
-🌐 OUDApp – A specialized Flutter app with custom features.
-📅 Agepeacts – A project in HTML, possibly for a static web application or personal page.
-📜 Affirmation Empire – A Flutter app for daily affirmations and positive reminders.
-🔧 Salam Admin Panel – An admin panel application to manage the Salam app.
-🌐 Flutter Projects – A collection of various Flutter applications and experiments.
+🖼️ Gallery Saver Plus – A Flutter plugin for saving images and videos directly to the device gallery.
+🔍 QR Code Tools – A plugin for decoding QR codes on iOS and Android.
+📱 QR Code Scanner – A Flutter app with real-time QR code scanning.
+📍 GPS Camera iOS – Combines GPS with camera features for location-based media capture on iOS.
+📷 GPS Camera Android – The Android version for GPS-tagged media capturing.
+💳 Stripe App – A project integrating Stripe payment solutions.
+🗺️ GPS Map Camera – A mapping and camera app that captures GPS-tagged photos.
+⚙️ RPM Service – An app tracking real-time RPM data.
+📔 Lawyer Diary – A diary and case management tool for legal professionals.
+➗ SplitApp – Manages and splits group expenses effortlessly.
+👋 Salam – A messaging app for communication.
+⚖️ BMI Calculator – Calculates BMI using a C++ algorithm.
+💰 Bitcoin Exchanger – Real-time bitcoin exchange calculator in C++.
+📽️ Veepo – A video processing app with unique effects.
+🌐 OUDApp – A specialized Flutter app with customized features.
+📅 Agepeacts – A static HTML project.
+📜 Affirmation Empire – A Flutter app for daily affirmations.
+🔧 Salam Admin Panel – Admin tool for managing the Salam app.
+🌐 Flutter Projects – Collection of Flutter applications and experimental projects.
 🛠️ My Skill Set
 Frontend
-Languages: Dart, JavaScript
-Frameworks: Flutter, Material Design, Provider
-UI Tools: Custom Widgets, Animations
-State Management: Provider, Bloc
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
 Backend
-Databases: Firebase Firestore, SQLite
-APIs: RESTful APIs, Firebase Cloud Functions
-Cloud: Firebase, AWS
-Authentication: Firebase Auth
-Additional Tools
-Git, GitHub, Docker, Google Maps API, Location Services, AdMob, Google Analytics, Remote Config, CI/CD (GitHub Actions)
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
+Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
 🌱 I’m currently learning
-Advanced state management in Flutter
-Backend integrations for mobile apps
+<img src="https://img.shields.io/badge/Backend%20Development-5C6BC0?style=for-the-badge&logo=code&logoColor=white" height="30"/>
 📫 Connect with Me
-Portfolio: [Your Portfolio URL]
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+<a href="https://github.com/SudaisRehman" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> </a> <a href="https://linkedin.com/in/sudaisrehman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/> </a>
+
 ✍️ Recent Blog Posts
-Stay tuned for insights on my latest projects and progress in Flutter development!
+Stay tuned for updates on my latest projects and learning insights!
