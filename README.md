@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👨‍💻 Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-blue?style=flat-square&logo=flutter" alt="Flutter" />
+  <!-- Add more badges as needed -->
+</p>
