@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##  Hi 👋, I'm Sudais Rehman
-A skilled Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am passionate about creating efficient, user-friendly mobile applications that provide real-world solutions. Currently, I am open to new opportunities in mobile and front-end development.
-
+I am a dedicated Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am currently working as a Flutter Developer at Zoobi Apps in Islamabad. I am passionate about building efficient, user-friendly mobile applications that provide real-world solutions. I am also open to exploring new opportunities to grow my skills further.
 ---
 # 🔭 Projects I've Worked On:
 🖼️ Gallery Saver Plus
@@ -84,7 +83,7 @@ Collection of Flutter applications and experimental projects.
 ## Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
 ## 🌱 I’m currently learning
-<img src="https://img.shields.io/badge/Backend%20Development-5C6BC0?style=for-the-badge&logo=code&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Backend%20Development-5C6BC0?style=for-the-badge&logo=code&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
 # 📫 Connect with Me
 <a href="https://github.com/SudaisRehman" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> </a> <a href="https://linkedin.com/in/sudaisrehman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/> </a>
 
