@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##  Hi 👋, I'm Sudais Rehman
-I am a dedicated Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am currently working as a Flutter Developer at Zoobi Apps in Islamabad. I am passionate about building efficient, user-friendly mobile applications that provide real-world solutions. I am also open to exploring new opportunities to grow my skills further.
+ I am a dedicated Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am currently working as a Flutter Developer at Zoobi Apps in Islamabad. I am passionate about building efficient, user-friendly mobile applications that provide real-world solutions. I am also open to exploring new opportunities to grow my skills further.
 ---
 # 🔭 Projects I've Worked On:
-🖼️ Gallery Saver Plus
-A Flutter plugin for saving images and videos directly to the device gallery.
 
-🔍 QR Code Tools
-A plugin for decoding QR codes on iOS and Android.
 
 📱 QR Code Scanner
 A Flutter app with real-time QR code scanning.
@@ -36,17 +32,12 @@ The Android version for GPS-tagged media capturing.
 💳 Stripe App
 A project integrating Stripe payment solutions.
 
-🗺️ GPS Map Camera
-A mapping and camera app that captures GPS-tagged photos.
 
 ⚙️ RPM Service
 An app tracking real-time RPM data.
 
 📔 Lawyer Diary
 A diary and case management tool for legal professionals.
-
-➗ SplitApp
-Manages and splits group expenses effortlessly.
 
 👋 Salam
 A messaging app for communication.
@@ -72,8 +63,7 @@ A Flutter app for daily affirmations.
 🔧 Salam Admin Panel
 Admin tool for managing the Salam app.
 
-🌐 Flutter Projects
-Collection of Flutter applications and experimental projects.
+
 ---
 # 🛠️ My Skill Set
 ### Frontend
