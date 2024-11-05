@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##  Hi 👋, I'm Sudais Rehman
- I am a dedicated Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am currently working as a Flutter Developer at Zoobi Apps in Islamabad. I am passionate about building efficient, user-friendly mobile applications that provide real-world solutions. I am also open to exploring new opportunities to grow my skills further.
+<small>I am a dedicated Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am currently working as a Flutter Developer at Zoobi Apps in Islamabad. I am passionate about building efficient, user-friendly mobile applications that provide real-world solutions. I am also open to exploring new opportunities to grow my skills further.</small>
 ---
 # 🔭 Projects I've Worked On:
 
