@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Hi 👋, I'm Sudais Rehman
+##  Hi 👋, I'm Sudais Rehman
 A skilled Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am passionate about creating efficient, user-friendly mobile applications that provide real-world solutions. Currently, I am open to new opportunities in mobile and front-end development.
 
-
+---
 # 🔭 Projects I've Worked On:
 🖼️ Gallery Saver Plus
 A Flutter plugin for saving images and videos directly to the device gallery.
@@ -77,16 +77,16 @@ Admin tool for managing the Salam app.
 Collection of Flutter applications and experimental projects.
 
 # 🛠️ My Skill Set
-Frontend
+### Frontend
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
-Backend
+### Backend
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
 Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
 🌱 I’m currently learning
 <img src="https://img.shields.io/badge/Backend%20Development-5C6BC0?style=for-the-badge&logo=code&logoColor=white" height="30"/>
-📫 Connect with Me
+# 📫 Connect with Me
 <a href="https://github.com/SudaisRehman" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> </a> <a href="https://linkedin.com/in/sudaisrehman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/> </a>
 
-✍️ Recent Blog Posts
+# ✍️ Recent Blog Posts
 Stay tuned for updates on my latest projects and learning insights!
