@@ -18,25 +18,63 @@ Hi 👋, I'm Sudais Rehman
 A skilled Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am passionate about creating efficient, user-friendly mobile applications that provide real-world solutions. Currently, I am open to new opportunities in mobile and front-end development.
 
 🔭 Projects I've Worked On:
-🖼️ Gallery Saver Plus – A Flutter plugin for saving images and videos directly to the device gallery.
-🔍 QR Code Tools – A plugin for decoding QR codes on iOS and Android.
-📱 QR Code Scanner – A Flutter app with real-time QR code scanning.
-📍 GPS Camera iOS – Combines GPS with camera features for location-based media capture on iOS.
-📷 GPS Camera Android – The Android version for GPS-tagged media capturing.
-💳 Stripe App – A project integrating Stripe payment solutions.
-🗺️ GPS Map Camera – A mapping and camera app that captures GPS-tagged photos.
-⚙️ RPM Service – An app tracking real-time RPM data.
-📔 Lawyer Diary – A diary and case management tool for legal professionals.
-➗ SplitApp – Manages and splits group expenses effortlessly.
-👋 Salam – A messaging app for communication.
-⚖️ BMI Calculator – Calculates BMI using a C++ algorithm.
-💰 Bitcoin Exchanger – Real-time bitcoin exchange calculator in C++.
-📽️ Veepo – A video processing app with unique effects.
-🌐 OUDApp – A specialized Flutter app with customized features.
-📅 Agepeacts – A static HTML project.
-📜 Affirmation Empire – A Flutter app for daily affirmations.
-🔧 Salam Admin Panel – Admin tool for managing the Salam app.
-🌐 Flutter Projects – Collection of Flutter applications and experimental projects.
+🖼️ Gallery Saver Plus
+A Flutter plugin for saving images and videos directly to the device gallery.
+
+🔍 QR Code Tools
+A plugin for decoding QR codes on iOS and Android.
+
+📱 QR Code Scanner
+A Flutter app with real-time QR code scanning.
+
+📍 GPS Camera iOS
+Combines GPS with camera features for location-based media capture on iOS.
+
+📷 GPS Camera Android
+The Android version for GPS-tagged media capturing.
+
+💳 Stripe App
+A project integrating Stripe payment solutions.
+
+🗺️ GPS Map Camera
+A mapping and camera app that captures GPS-tagged photos.
+
+⚙️ RPM Service
+An app tracking real-time RPM data.
+
+📔 Lawyer Diary
+A diary and case management tool for legal professionals.
+
+➗ SplitApp
+Manages and splits group expenses effortlessly.
+
+👋 Salam
+A messaging app for communication.
+
+⚖️ BMI Calculator
+Calculates BMI using a C++ algorithm.
+
+💰 Bitcoin Exchanger
+Real-time bitcoin exchange calculator in C++.
+
+📽️ Veepo
+A video processing app with unique effects.
+
+🌐 OUDApp
+A specialized Flutter app with customized features.
+
+📅 Agepeacts
+A static HTML project.
+
+📜 Affirmation Empire
+A Flutter app for daily affirmations.
+
+🔧 Salam Admin Panel
+Admin tool for managing the Salam app.
+
+🌐 Flutter Projects
+Collection of Flutter applications and experimental projects.
+
 🛠️ My Skill Set
 Frontend
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/>
