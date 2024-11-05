@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **SudaisRehman/SudaisRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋, I'm Sudais Rehman
+#Hi 👋, I'm Sudais Rehman
 A skilled Flutter Developer and Computer Systems Engineer from the University of Engineering and Technology, Peshawar. I am passionate about creating efficient, user-friendly mobile applications that provide real-world solutions. Currently, I am open to new opportunities in mobile and front-end development.
 
 
