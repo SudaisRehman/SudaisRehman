@@ -77,7 +77,7 @@ Admin tool for managing the Salam app.
 ### Backend
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30"/> <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30"/>
 ## Tools
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" height="30"/> 
 ## 🌱 I’m currently learning
 <img src="https://img.shields.io/badge/Backend%20Development-5C6BC0?style=for-the-badge&logo=code&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
 # 📫 Connect with Me
